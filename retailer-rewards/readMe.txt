@@ -1,4 +1,3 @@
-# retailer-rewards
 #1. Clone the repository.
 #2. Build the application-Navigate to the root of the project via command line and execute the command: mvn clean install -DskipTests.
 #3. Run the application-Navigate to the root of the project via command line and execute the command: mvn spring-boot:run
